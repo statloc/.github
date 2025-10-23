@@ -9,7 +9,7 @@
 Fast, multi-threaded, open-source tool for collecting project statistic: lines of code, methods, files, components, contributors, etc. Can be used as a command-line tool or as a go library. Created by [@dmkjfs](https://github.com/dmkjfs). Inspired by [rails stats](https://guides.rubyonrails.org/command_line.html#bin-rails-stats).
 
 Includes:
-- [core](https://github.com/statloc/core) - ✨📊 Core package that collects statistics itself. Written in go, used by CLI.
+- [core](https://github.com/statloc/core) - ✨📊 Core package that collects statistics. Written in go, used by CLI.
 - [cli](https://github.com/statloc/cli) - ⚡🧑‍💻 Fast and simple command-line interface on top of [core](https://github.com/statloc/core).
 
 <img alt="Example of CLI usage" src="https://github.com/statloc/.github/blob/master/assets/cli.png">
