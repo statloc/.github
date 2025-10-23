@@ -5,20 +5,17 @@
 
 <h1 align="center">statloc</h1>
 
-Fast tool for collecting project statistic: lines of code, methods, files, components, contributors, etc.
+Fast, multi-threaded, open-source tool for collecting project statistic: lines of code, methods, files, components, contributors, etc. Can be used as a command-line tool or as a go library. Created by [@dmkjfs](https://github.com/dmkjfs)
 
 Includes:
-
-- [core](https://github.com/statloc/core) - ✨📊 Go package that collects statistics itself. Used by CLI.
-- [cli](https://github.com/statloc/cli) - Fast command-line interface on top of core.
+- [core](https://github.com/statloc/core) - ✨📊 Core package that collects statistics itself. Written in go, used by CLI.
+- [cli](https://github.com/statloc/cli) - ⚡🧑‍💻 Fast and simple command-line interface on top of [core](https://github.com/statloc/core).
 
 <img src="https://github.com/statloc/.github/blob/master/assets/cli.png">
 
 
 ### 🤝 Contributing
-
 Contributions are welcome! Please read the [contributing guidelines](https://github.com/statloc/core/blob/main/CONTRIBUTING.md) before submitting an issue / pull request.
 
 ### 📃 Licensing
-
-All @statloc projects are licensed under THE COFFEWARE LICENSE (Revision 1)
+All [@statloc](https://github.com/statloc) projects are licensed under THE COFFEWARE LICENSE (Revision 1)
